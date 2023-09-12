@@ -83,7 +83,7 @@ function ProductForm() {
           placeholder="name"
           onChange={handleChange}
           value={product.name}
-          className="shadow appearance-none border rounded w-full py-2 px-3"
+          className=" text-black shadow appearance-none border rounded w-full py-2 px-3" 
           autoFocus
         />
 
